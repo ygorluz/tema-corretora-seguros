@@ -1,0 +1,25 @@
+{
+  "name": "Corretora de Seguros SP",
+  "segmento": "Corretora de seguros",
+  "schemaType": "InsuranceAgency",
+  "postUrlPrefix": "",
+  "description": "Corretora de seguros em São Paulo: seguro auto, de vida, residencial, saúde, empresarial, viagem, previdência privada, fiança e consórcio. Cotação com as melhores seguradoras e atendimento próximo.",
+  "ctaLabel": "Solicitar cotação",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@corretorasp.com.br",
+  "address": "São Paulo, SP",
+  "hours": "Seg a Sex, 9h às 18h",
+  "social": { "instagram": "#", "facebook": "#", "linkedin": "#" },
+  "nap": {
+    "streetAddress": "Av. Paulista, 0000 — conj. 000",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01310-000",
+    "country": "BR",
+    "latitude": -23.5614,
+    "longitude": -46.6559,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=Avenida+Paulista+São+Paulo+SP&output=embed"
+  }
+}

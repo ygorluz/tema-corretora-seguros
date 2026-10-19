@@ -1,0 +1,41 @@
+[
+  {
+    "id": "expert-1",
+    "name": "Equipe editorial",
+    "role": "Conteúdo de seguros",
+    "avatar": "",
+    "bio": "Time da corretora que traduz apólice em português claro. Escreve sobre auto, vida, saúde e patrimônio pra você decidir bem. Edite em /admin/authors.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-2",
+    "name": "Corretor responsável",
+    "role": "Consultor de seguros",
+    "avatar": "",
+    "bio": "Corretor habilitado que atende clientes em São Paulo e revisa cada conteúdo do blog. Edite a bio em /admin/authors.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "expert-3",
+    "name": "Consultor empresarial",
+    "role": "Seguros para empresas",
+    "avatar": "",
+    "bio": "Especialista em seguros empresariais, vida em grupo e planos de saúde PME. Edite em /admin/authors.",
+    "social": {
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  }
+]

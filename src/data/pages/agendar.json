@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Solicite sua cotação — Corretora de Seguros SP",
+    "description": "Peça a cotação do seu seguro auto, de vida, residencial, saúde ou empresarial em São Paulo. Comparação sem compromisso e sem custo pra você."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Solicite sua cotação",
+      "title": "Sua cotação comparada em três passos simples.",
+      "lead": "Informe o que você quer proteger e seus dados — a gente compara as seguradoras pra você.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Cotação", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos da cotação à apólice.",
+      "steps": [
+        { "n": "01", "title": "Cotação", "text": "Conte o que você quer proteger pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Comparação", "text": "Mostramos as seguradoras lado a lado e explicamos as diferenças." },
+        { "n": "03", "title": "Contratação", "text": "Você escolhe, emitimos a apólice e acompanhamos o contrato." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba sua cotação.",
+      "services": ["Seguro de automóvel", "Seguro de vida", "Seguro residencial", "Seguro saúde e plano de saúde", "Seguro empresarial", "Previdência privada", "Seguro viagem", "Seguro fiança (fiança locatícia)", "Consórcio"]
+    }}
+  ]
+}

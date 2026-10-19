@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Corretora de Seguros SP",
+    "description": "Fale com a Corretora de Seguros SP: WhatsApp, e-mail e endereço em São Paulo. Tire dúvidas ou peça a cotação do seu seguro."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos pra atender você.",
+      "lead": "Mande mensagem, ligue ou passe no escritório — cotação rápida e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte qual seguro você precisa.",
+      "services": ["Seguro de automóvel", "Seguro de vida", "Seguro residencial", "Seguro saúde e plano de saúde", "Seguro empresarial", "Previdência privada", "Seguro viagem", "Seguro fiança (fiança locatícia)", "Consórcio"]
+    }}
+  ]
+}

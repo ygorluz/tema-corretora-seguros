@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Seguros que oferecemos — Corretora de Seguros SP",
+    "description": "Seguro auto, de vida, residencial, saúde, empresarial, viagem, previdência privada, fiança e consórcio. Conheça todos os seguros que cotamos em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos seguros",
+      "title": "Proteção pra cada parte da sua vida e do seu negócio.",
+      "lead": "Do carro à empresa, da saúde à aposentadoria — cotamos e explicamos cada opção.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Seguros", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Solicitar cotação", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que escolher a gente",
+      "title": "Cotação sem viés e cobertura sob medida.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Corretores habilitados", "text": "Time registrado na SUSEP e atualizado." },
+        { "title": "Várias seguradoras", "text": "Comparamos preço e cobertura lado a lado." },
+        { "title": "Cotação sem custo", "text": "Você não paga nada pela assessoria." },
+        { "title": "Atendimento ágil", "text": "Resposta rápida por WhatsApp em São Paulo." },
+        { "title": "Apoio no sinistro", "text": "Acompanhamos até a indenização sair." },
+        { "title": "Revisão anual", "text": "Renovação revisada pra não pagar a mais." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça sua cotação sem compromisso.",
+      "services": ["Seguro de automóvel", "Seguro de vida", "Seguro residencial", "Seguro saúde e plano de saúde", "Seguro empresarial", "Previdência privada", "Seguro viagem", "Seguro fiança (fiança locatícia)", "Consórcio"]
+    }}
+  ]
+}

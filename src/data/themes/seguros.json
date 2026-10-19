@@ -1,0 +1,17 @@
+{
+  "name": "Seguros",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EEF3FB",
+    "ink": "#0F2643",
+    "ink-muted": "#4B5F7A",
+    "primary": "#0F2643",
+    "secondary": "#1E5BB8",
+    "accent": "#1D62D6",
+    "accent-ink": "#FFFFFF",
+    "accent-strong": "#15448F",
+    "border": "#DEE7F2"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

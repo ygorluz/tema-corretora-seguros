@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Corretora de Seguros SP",
+    "description": "Corretores habilitados em seguros de pessoas, auto, residencial e empresarial em São Paulo. Conheça o time que cota, explica e acompanha o seu seguro."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Corretores que explicam e acompanham de perto.",
+      "lead": "Profissionais habilitados em seguros de pessoas, patrimônio e empresas.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Seguros de pessoas (vida e saúde)", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Auto e residencial", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Seguros empresariais", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Atendimento e sinistro", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "320+", "label": "Clientes protegidos" },
+        { "value": "12", "label": "Seguradoras parceiras" },
+        { "value": "98%", "label": "Clientes que renovam" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça sua cotação sem compromisso.",
+      "services": ["Seguro de automóvel", "Seguro de vida", "Seguro residencial", "Seguro saúde e plano de saúde", "Seguro empresarial", "Previdência privada", "Seguro viagem", "Seguro fiança (fiança locatícia)", "Consórcio"]
+    }}
+  ]
+}

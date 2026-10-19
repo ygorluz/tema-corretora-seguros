@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Corretora de seguros em São Paulo",
+        "title": "O seguro certo pra você, cotado nas melhores seguradoras.",
+        "lead": "Seguro auto, de vida, residencial, saúde, empresarial, viagem, previdência, fiança e consórcio. A gente compara, explica e cuida de tudo — da cotação ao sinistro.",
+        "cta": {
+          "label": "Solicitar cotação",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "320+ clientes atendidos"
+        },
+        "doctor": {
+          "name": "Equipe de corretores",
+          "role": "Assessoria e cotação",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 9h às 18h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos protegendo famílias e empresas em SP",
+        "eyebrow": "Sobre a corretora",
+        "title": "Assessoria de seguros que trabalha pra você, não pela seguradora.",
+        "lead": "Como corretora independente, cotamos várias seguradoras ao mesmo tempo e indicamos a proteção que faz sentido pro seu momento — sem empurrar cobertura que você não precisa.",
+        "benefits": [
+          "Cotação comparada nas principais seguradoras",
+          "Atendimento próximo, com corretor de verdade",
+          "Apoio no sinistro, do aviso à indenização",
+          "Renovação revisada todo ano, sem piloto automático"
+        ],
+        "cta": {
+          "label": "Conheça a corretora",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos seguros",
+        "title": "Proteção pra cada parte da sua vida e do seu negócio.",
+        "items": [
+          {
+            "title": "Seguro de automóvel",
+            "text": "Cobertura para colisão, roubo, furto e terceiros."
+          },
+          {
+            "title": "Seguro de vida",
+            "text": "Tranquilidade financeira para a sua família."
+          },
+          {
+            "title": "Seguro saúde e plano de saúde",
+            "text": "Planos individuais, familiares e empresariais."
+          },
+          {
+            "title": "Seguro empresarial",
+            "text": "Patrimônio e responsabilidade do seu negócio."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os seguros",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de mercado"
+          },
+          {
+            "value": "320+",
+            "label": "Clientes protegidos"
+          },
+          {
+            "value": "12",
+            "label": "Seguradoras parceiras"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes que renovam"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que escolher a gente",
+        "title": "Seguro bem feito é o que te protege no dia que importa.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Cotação comparada",
+            "text": "Várias seguradoras lado a lado, sem viés."
+          },
+          {
+            "title": "Cobertura sob medida",
+            "text": "Você paga pelo que precisa, sem excesso."
+          },
+          {
+            "title": "Apoio no sinistro",
+            "text": "Acompanhamos você até a indenização sair."
+          },
+          {
+            "title": "Corretor dedicado",
+            "text": "Uma pessoa de verdade pra te atender."
+          },
+          {
+            "title": "Sem custo pra você",
+            "text": "A corretora é remunerada pela seguradora."
+          },
+          {
+            "title": "Revisão anual",
+            "text": "Renovação revisada pra não pagar a mais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos da cotação à apólice.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Cotação",
+            "text": "Conte o que você quer proteger pelo WhatsApp ou formulário."
+          },
+          {
+            "n": "02",
+            "title": "Comparação",
+            "text": "Mostramos as seguradoras lado a lado e explicamos as diferenças."
+          },
+          {
+            "n": "03",
+            "title": "Contratação",
+            "text": "Você escolhe, a gente emite a apólice e acompanha o contrato."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Corretores que explicam e acompanham de perto.",
+        "members": [
+          {
+            "name": "Corretor responsável",
+            "role": "Seguros de pessoas",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Especialista auto e residencial",
+            "role": "Seguros patrimoniais",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Consultor empresarial",
+            "role": "Seguros para empresas",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento e sinistro",
+            "role": "Suporte ao cliente",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Acharam um seguro de carro mais barato e com cobertura melhor que a minha antiga.",
+            "name": "Roberto L.",
+            "role": "Moema"
+          },
+          {
+            "quote": "Resolveram meu seguro fiança em poucos dias e consegui alugar sem fiador.",
+            "name": "Mariana D.",
+            "role": "Pinheiros"
+          },
+          {
+            "quote": "Quando precisei acionar o seguro, acompanharam tudo até a indenização cair.",
+            "name": "Thiago L.",
+            "role": "Tatuapé"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Antes e depois da assessoria.",
+        "items": [
+          {
+            "label": "Renovação revisada",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Cobertura ajustada",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas pra contratar seguro do jeito certo.",
+        "items": [
+          {
+            "title": "Como economizar no seguro do carro",
+            "excerpt": "O que mexe no preço e como pagar menos.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Seguro de vida: quanto de cobertura contratar",
+            "excerpt": "Uma conta simples pra proteger a família.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Seguro fiança vale a pena pra alugar?",
+            "excerpt": "Compare com fiador e caução antes de decidir.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça sua cotação sem compromisso.",
+        "services": [
+          "Seguro de automóvel",
+          "Seguro de vida",
+          "Seguro residencial",
+          "Seguro saúde e plano de saúde",
+          "Seguro empresarial"
+        ]
+      }
+    }
+  ]
+}

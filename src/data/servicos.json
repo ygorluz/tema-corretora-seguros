@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "seguro-auto",
+    "nome": "Seguro de automóvel",
+    "resumo": "Seguro de carro com cobertura para colisão, roubo, furto e terceiros, cotado em várias seguradoras.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que cobre o seguro de automóvel",
+        "conteudo": "O seguro de automóvel protege seu carro contra colisão, roubo, furto e incêndio, e ainda cobre os danos que você possa causar a outras pessoas no trânsito.\n\nA maioria das apólices inclui assistência 24 horas com guincho, chaveiro e troca de pneu, além de carro reserva durante o conserto."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Cobertura para terceiros (RCF-V)",
+        "conteudo": "A cobertura de responsabilidade civil paga os prejuízos causados a terceiros: o conserto do outro veículo, danos materiais e até despesas com pessoas feridas.\n\nÉ a proteção que evita que um acidente vire uma dívida alta, e o limite pode ser ajustado conforme o seu perfil de uso."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Coberturas adicionais que valem a pena",
+        "conteudo": "Além do básico, você pode incluir vidros, faróis e retrovisores, cobertura para danos da natureza como enchente e granizo, e proteção para acessórios.\n\n- Vidros, faróis e lanternas\n- Danos da natureza (enchente, granizo)\n- Carro reserva por mais dias\n- Cobertura para app de transporte"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "O que define o preço do seguro de carro",
+        "conteudo": "O valor depende do modelo e ano do veículo, do seu perfil de condutor, do CEP onde o carro dorme e do uso que você faz dele.\n\nComo corretora, cotamos o mesmo carro em várias seguradoras ao mesmo tempo e mostramos qual combina melhor preço e cobertura para o seu caso."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como contratar e acionar o seguro",
+        "conteudo": "Você nos envia os dados do veículo e do principal condutor, recebe as cotações comparadas e escolhe a apólice com calma, sem pressão de vendedor.\n\nSe precisar acionar, a gente acompanha o sinistro com você junto à seguradora, do aviso à liberação do reparo."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-de-vida",
+    "nome": "Seguro de vida",
+    "resumo": "Proteção financeira para a sua família em caso de morte ou invalidez, com indenização livre de imposto.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Para que serve o seguro de vida",
+        "conteudo": "O seguro de vida garante uma quantia para a sua família caso você falte, ajudando a manter o padrão de vida, quitar dívidas e custear estudos dos filhos.\n\nA indenização é paga diretamente aos beneficiários, fora do inventário e isenta de imposto de renda, o que agiliza o acesso ao dinheiro num momento difícil."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Coberturas: morte, invalidez e doenças graves",
+        "conteudo": "Além da cobertura por morte, o seguro pode incluir invalidez por acidente, diagnóstico de doenças graves e diárias por internação.\n\n- Morte por qualquer causa\n- Invalidez permanente por acidente\n- Doenças graves (câncer, infarto, AVC)\n- Assistência funeral para a família"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quanto de cobertura você precisa",
+        "conteudo": "Uma boa referência é cobrir de cinco a dez vezes a sua renda anual, somada às dívidas que ficariam para a família, como financiamento do imóvel.\n\nNa cotação a gente calcula esse valor junto com você, equilibrando a proteção desejada com uma mensalidade que cabe no orçamento."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Seguro de vida individual e empresarial",
+        "conteudo": "O seguro de vida individual protege você e sua família de forma personalizada, com coberturas escolhidas item a item.\n\nJá o seguro de vida em grupo é contratado pela empresa para os funcionários, com custo menor por pessoa e adesão simplificada."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como contratar o seguro de vida",
+        "conteudo": "A contratação costuma ser rápida: na maioria dos planos basta uma declaração de saúde, sem exames, para valores dentro do limite da seguradora.\n\nComparamos as principais seguradoras e indicamos a que oferece a melhor relação entre cobertura, carência e preço para o seu perfil."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-residencial",
+    "nome": "Seguro residencial",
+    "resumo": "Proteção para a sua casa ou apartamento contra incêndio, roubo, danos elétricos e mais, com assistência 24h.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que o seguro residencial protege",
+        "conteudo": "O seguro residencial cobre a sua casa ou apartamento contra incêndio, explosão, queda de raio, roubo de bens e danos elétricos em aparelhos.\n\nProtege tanto a estrutura do imóvel quanto o que está dentro dele, como móveis, eletrodomésticos e equipamentos."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Assistência residencial 24 horas",
+        "conteudo": "Mais do que cobrir grandes sinistros, o seguro resolve o dia a dia: encanador, eletricista, chaveiro e conserto de eletrodomésticos sem custo de visita.\n\n- Encanador e eletricista de emergência\n- Chaveiro e desbloqueio de portas\n- Conserto de linha branca\n- Vidraceiro para vidros quebrados"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Coberturas para imóvel próprio e alugado",
+        "conteudo": "Quem mora de aluguel pode contratar o seguro para proteger os próprios bens e a responsabilidade por danos ao imóvel.\n\nProprietários ampliam a proteção com cobertura para a estrutura, perda ou pagamento de aluguel e responsabilidade civil familiar."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quanto custa o seguro residencial",
+        "conteudo": "O preço é calculado pelo valor do imóvel e dos bens que você quer proteger, além do CEP e das coberturas escolhidas.\n\nÉ um dos seguros mais acessíveis do mercado, e na cotação mostramos diferentes níveis de proteção para você decidir."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como contratar pela corretora",
+        "conteudo": "Você informa o tipo de imóvel, o endereço e uma estimativa do valor dos bens, e a gente retorna com as opções comparadas.\n\nAjudamos a dimensionar as coberturas para você não pagar por proteção que não usa nem ficar exposto onde mais importa."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-saude",
+    "nome": "Seguro saúde e plano de saúde",
+    "resumo": "Planos de saúde individuais, familiares e empresariais com as principais operadoras, cotados lado a lado.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Diferença entre plano e seguro saúde",
+        "conteudo": "Na prática, plano e seguro saúde dão acesso a consultas, exames e internações; a diferença está na rede e na forma de reembolso.\n\nO seguro saúde costuma ter livre escolha de médicos com reembolso, enquanto o plano trabalha com rede credenciada. A gente ajuda a escolher o modelo certo para você."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Planos individual, familiar e por adesão",
+        "conteudo": "O plano individual ou familiar cobre você e seus dependentes diretamente, com mensalidade definida por faixa etária.\n\n- Individual e familiar\n- Coletivo por adesão (via entidade de classe)\n- Empresarial (a partir de um ou dois CNPJs)\n- Opções com e sem coparticipação"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "O que avaliar antes de contratar",
+        "conteudo": "Vale comparar a rede credenciada de hospitais e laboratórios na sua região, as carências e a abrangência, se municipal, estadual ou nacional.\n\nComo corretora, colocamos as operadoras lado a lado para você enxergar rede, preço e regras sem precisar falar com cada uma."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Plano de saúde empresarial (PME)",
+        "conteudo": "Empresas a partir de poucos funcionários conseguem planos com preço melhor que o individual e carências reduzidas.\n\nCuidamos da cotação, da documentação e da implantação, e seguimos como seu contato para inclusões, exclusões e dúvidas do RH."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como cotar seu plano de saúde",
+        "conteudo": "Informe as idades das pessoas a incluir, a cidade e o tipo de plano desejado, e devolvemos uma comparação clara das operadoras.\n\nNão cobramos pela cotação nem pela assessoria: a corretora é remunerada pela operadora, e você tem acompanhamento durante todo o contrato."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-empresarial",
+    "nome": "Seguro empresarial",
+    "resumo": "Proteção patrimonial e de responsabilidade para empresas, lojas, escritórios e prestadores de serviço.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que cobre o seguro empresarial",
+        "conteudo": "O seguro empresarial protege o patrimônio do negócio contra incêndio, roubo, danos elétricos e vendaval, abrangendo o imóvel, os equipamentos e o estoque.\n\nÉ a base de proteção para quem não pode parar de operar por causa de um sinistro inesperado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Coberturas conforme o tipo de negócio",
+        "conteudo": "As coberturas se ajustam à atividade: uma loja prioriza estoque e vitrine, um escritório foca em equipamentos, e um prestador de serviço precisa de responsabilidade civil.\n\n- Patrimonial (prédio, conteúdo, estoque)\n- Responsabilidade civil da operação\n- Equipamentos eletrônicos\n- Lucros cessantes por paralisação"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Responsabilidade civil e proteção a terceiros",
+        "conteudo": "A cobertura de responsabilidade civil paga indenizações por danos que a empresa cause a clientes, fornecedores ou ao público dentro do estabelecimento.\n\nProtege o caixa do negócio contra processos e acordos que poderiam comprometer o funcionamento."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Seguros para frota e colaboradores",
+        "conteudo": "Empresas com veículos contratam seguro de frota com gestão única, e quem tem equipe agrega seguro de vida em grupo e plano de saúde.\n\nReunimos essas proteções com um único contato, simplificando renovações e atendimento para o financeiro e o RH."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como montar o seguro da sua empresa",
+        "conteudo": "Fazemos um diagnóstico do negócio para entender atividade, faturamento e principais riscos antes de cotar.\n\nCom isso, montamos um pacote sob medida nas melhores seguradoras e apresentamos a comparação para você decidir."
+      }
+    ]
+  },
+  {
+    "slug": "previdencia-privada",
+    "nome": "Previdência privada",
+    "resumo": "Planos PGBL e VGBL para construir uma reserva de longo prazo e complementar a aposentadoria.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Para que serve a previdência privada",
+        "conteudo": "A previdência privada é uma forma de poupar no longo prazo para complementar a aposentadoria do INSS ou realizar um objetivo futuro.\n\nVocê faz aportes ao longo do tempo, o dinheiro é investido e rende, e mais tarde pode resgatar de uma vez ou receber uma renda mensal."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "PGBL ou VGBL: qual escolher",
+        "conteudo": "O PGBL é indicado para quem declara imposto de renda no modelo completo, porque permite deduzir os aportes até 12% da renda tributável.\n\nO VGBL combina com quem faz a declaração simplificada ou já atingiu o limite do PGBL, pois o imposto incide só sobre o rendimento."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Tabela de imposto: progressiva ou regressiva",
+        "conteudo": "Na tabela regressiva, a alíquota de imposto cai com o tempo e chega a 10% após dez anos, ideal para quem pensa no longo prazo.\n\nA tabela progressiva acompanha a do salário e faz sentido para resgates de curto prazo ou valores menores. A gente ajuda a simular os dois caminhos."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Previdência para os filhos e sucessão",
+        "conteudo": "Muitos pais usam a previdência para garantir os estudos ou a entrada do primeiro imóvel dos filhos, com aportes pequenos e constantes.\n\nO plano também funciona como ferramenta de sucessão: os recursos vão direto aos beneficiários, fora do inventário."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como contratar com acompanhamento",
+        "conteudo": "Definimos juntos o objetivo, o prazo e o valor de aporte, e indicamos o fundo e a tributação mais adequados ao seu perfil.\n\nNão é só vender o plano: acompanhamos a evolução e ajustamos a estratégia quando a sua vida muda."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-viagem",
+    "nome": "Seguro viagem",
+    "resumo": "Cobertura médica, de bagagem e cancelamento para viagens nacionais e internacionais, com assistência 24h.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Por que contratar seguro viagem",
+        "conteudo": "O seguro viagem cobre despesas médicas e hospitalares no destino, que podem custar muito caro no exterior, além de bagagem extraviada e imprevistos.\n\nÉ a tranquilidade de viajar sabendo que um problema de saúde ou um voo cancelado não vai virar um prejuízo enorme."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Coberturas essenciais da apólice",
+        "conteudo": "Uma boa apólice equilibra os principais riscos da viagem em um único contrato.\n\n- Despesas médicas e hospitalares\n- Extravio e dano de bagagem\n- Cancelamento e interrupção de viagem\n- Traslado e assistência 24 horas"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Seguro para Europa e exigência Schengen",
+        "conteudo": "Para entrar nos países do Tratado de Schengen, na Europa, o seguro viagem é obrigatório, com cobertura médica mínima de 30 mil euros.\n\nIndicamos apólices que atendem essa exigência e emitimos a carta-verde que pode ser pedida na imigração."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Viagem nacional, a trabalho e para idosos",
+        "conteudo": "Há planos específicos para viagens dentro do Brasil, deslocamentos a trabalho e para viajantes da terceira idade, com coberturas ajustadas.\n\nTambém existem opções para intercâmbio e para quem pratica esportes, que pedem cobertura adicional."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como cotar e emitir rápido",
+        "conteudo": "Basta informar o destino, as datas e o número de viajantes que comparamos as seguradoras e indicamos o melhor custo-benefício.\n\nA emissão é digital e rápida, dá para sair com a apólice no e-mail no mesmo dia da contratação."
+      }
+    ]
+  },
+  {
+    "slug": "seguro-fianca",
+    "nome": "Seguro fiança (fiança locatícia)",
+    "resumo": "Garantia de aluguel sem fiador nem caução, aceita pela imobiliária e contratada em poucos dias.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é o seguro fiança locatícia",
+        "conteudo": "O seguro fiança é a garantia que substitui o fiador e a caução na hora de alugar um imóvel, residencial ou comercial.\n\nSe o inquilino deixar de pagar o aluguel ou os encargos, a seguradora cobre o proprietário, o que torna a negociação mais simples para os dois lados."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "O que a garantia cobre",
+        "conteudo": "Além do aluguel em atraso, o seguro fiança pode cobrir contas vinculadas ao contrato e danos ao imóvel ao fim da locação.\n\n- Aluguel e encargos não pagos\n- Condomínio e IPTU\n- Contas de água, luz e gás\n- Multas e danos ao imóvel"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Vantagens para inquilino e proprietário",
+        "conteudo": "Para o inquilino, é alugar sem pedir favor a um fiador e sem imobilizar vários aluguéis numa caução.\n\nPara o proprietário, é a segurança de receber em dia mesmo se houver inadimplência, com o suporte da seguradora na cobrança."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona a análise de crédito",
+        "conteudo": "A seguradora faz uma análise de crédito do pretendente com base na renda e no valor do aluguel, e o resultado costuma sair em poucos dias.\n\nA gente orienta sobre a documentação necessária para aumentar as chances de aprovação e agilizar o contrato."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como contratar o seguro fiança",
+        "conteudo": "Você informa os dados do imóvel, o valor do aluguel e dos encargos, e a gente cota nas seguradoras que a imobiliária aceita.\n\nComparamos preço e coberturas e cuidamos da emissão para você fechar o contrato de locação sem atraso."
+      }
+    ]
+  },
+  {
+    "slug": "consorcio",
+    "nome": "Consórcio",
+    "resumo": "Compra programada de imóvel, carro ou serviços sem juros, com parcelas que cabem no planejamento.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona o consórcio",
+        "conteudo": "O consórcio é uma compra planejada em grupo: você paga parcelas mensais e, a cada mês, contemplados recebem a carta de crédito para comprar o bem.\n\nNão há juros como no financiamento, apenas uma taxa de administração, o que costuma deixar o custo total menor para quem não tem pressa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Contemplação por sorteio e por lance",
+        "conteudo": "A contemplação acontece por sorteio mensal ou por lance, quando você antecipa parcelas para tentar ser contemplado antes.\n\nQuem tem um valor guardado pode usar como lance e aumentar a chance de receber a carta de crédito mais cedo."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Consórcio de imóvel, carro e serviços",
+        "conteudo": "Dá para planejar a compra de diferentes bens com a mesma lógica de parcela sem juros.\n\n- Imóvel residencial ou comercial\n- Carro novo ou usado\n- Motos e caminhões\n- Serviços como reforma e viagem"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Consórcio ou financiamento",
+        "conteudo": "O financiamento entrega o bem na hora, mas com juros que encarecem bastante o valor final.\n\nO consórcio é mais econômico e disciplinado, ideal para quem planeja a compra com antecedência. A gente compara os dois cenários com você."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como entrar em um grupo de consórcio",
+        "conteudo": "Definimos o valor da carta de crédito que você precisa e o prazo que cabe no orçamento, e indicamos as administradoras autorizadas pelo Banco Central.\n\nExplicamos as regras de cada grupo, a taxa de administração e o fundo de reserva antes de você assinar."
+      }
+    ]
+  }
+]

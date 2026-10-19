@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Corretora de Seguros SP",
+    "description": "Corretora de seguros independente em São Paulo há mais de 15 anos. Cotamos auto, vida, saúde, residencial e empresarial com assessoria de verdade, da cotação ao sinistro."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a corretora",
+      "title": "Seguro com quem explica e acompanha de perto.",
+      "lead": "Mais de 15 anos protegendo famílias, profissionais e empresas em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de experiência",
+      "title": "Assessoria de seguros que trabalha pra você.",
+      "lead": "Como corretora independente, comparamos as seguradoras sem viés e indicamos a proteção certa pro seu momento — sem empurrar cobertura que você não usa.",
+      "benefits": [
+        "Corretores habilitados pela SUSEP",
+        "Auto, vida, saúde, patrimônio e empresarial",
+        "Cotação comparada nas principais seguradoras",
+        "Apoio no sinistro, do aviso à indenização"
+      ],
+      "cta": { "label": "Solicitar cotação", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "320+", "label": "Clientes protegidos" },
+        { "value": "12", "label": "Seguradoras parceiras" },
+        { "value": "98%", "label": "Clientes que renovam" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos da cotação à apólice.",
+      "steps": [
+        { "n": "01", "title": "Cotação", "text": "Conte o que você quer proteger pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Comparação", "text": "Mostramos as seguradoras lado a lado e explicamos as diferenças." },
+        { "n": "03", "title": "Contratação", "text": "Você escolhe, emitimos a apólice e acompanhamos o contrato." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Acharam um seguro de carro melhor e mais barato que o meu antigo.", "name": "Roberto L.", "role": "Cliente — Moema" },
+        { "quote": "Resolveram o seguro fiança rápido e aluguei sem fiador.", "name": "Mariana D.", "role": "Cliente — Pinheiros" },
+        { "quote": "No sinistro, acompanharam tudo até a indenização cair.", "name": "Thomas L.", "role": "Cliente — Tatuapé" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça sua cotação sem compromisso.",
+      "services": ["Seguro de automóvel", "Seguro de vida", "Seguro residencial", "Seguro saúde e plano de saúde", "Seguro empresarial", "Previdência privada", "Seguro viagem", "Seguro fiança (fiança locatícia)", "Consórcio"]
+    }}
+  ]
+}

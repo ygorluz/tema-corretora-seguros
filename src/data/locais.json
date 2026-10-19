@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": ["Vila Nova Conceição", "Campo Belo", "Indianópolis"],
+    "referenciaLocal": "Atendemos toda a região de Moema, dos prédios próximos ao Parque Ibirapuera aos condomínios da Av. Ibirapuera, com cotação de seguros para famílias e profissionais da Zona Sul.",
+    "faq": [
+      {
+        "q": "Vocês cotam seguro auto para quem mora em Moema?",
+        "a": "Sim. Cotamos o seu carro em várias seguradoras de uma vez e ajustamos a cobertura ao perfil de quem mora e circula na Zona Sul de São Paulo."
+      },
+      {
+        "q": "Atendem presencialmente ou tudo a distância?",
+        "a": "Atendemos como você preferir: cotação e contratação por WhatsApp e e-mail, e reunião presencial quando o caso pede mais detalhe."
+      }
+    ]
+  },
+  {
+    "slug": "itaim-bibi",
+    "nome": "Itaim Bibi",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": ["Vila Olímpia", "Brooklin", "Jardim Paulistano"],
+    "referenciaLocal": "Atendemos o Itaim Bibi e seus polos comerciais, dos escritórios da Av. Faria Lima às empresas da Vila Olímpia, com seguros empresariais, de vida em grupo e planos de saúde PME.",
+    "faq": [
+      {
+        "q": "Fazem seguro empresarial para escritórios no Itaim?",
+        "a": "Fazemos. Montamos a proteção patrimonial e de responsabilidade civil sob medida para escritórios e prestadores de serviço da região."
+      },
+      {
+        "q": "Conseguem plano de saúde empresarial a partir de poucos funcionários?",
+        "a": "Sim. Cotamos planos PME a partir de dois CNPJs ou colaboradores, com preço melhor que o individual e carências reduzidas."
+      }
+    ]
+  },
+  {
+    "slug": "vila-mariana",
+    "nome": "Vila Mariana",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": ["Paraíso", "Ana Rosa", "Saúde"],
+    "referenciaLocal": "Atendemos a Vila Mariana e o entorno do metrô Ana Rosa, com seguro residencial, de vida e plano de saúde para as famílias e os muitos consultórios da região.",
+    "faq": [
+      {
+        "q": "Cotam seguro residencial para apartamento alugado?",
+        "a": "Cotamos. Há planos para quem mora de aluguel proteger os próprios bens e a responsabilidade pelo imóvel, com assistência 24 horas."
+      },
+      {
+        "q": "Atendem profissionais da saúde com consultório na Vila Mariana?",
+        "a": "Sim. Montamos seguro de responsabilidade civil profissional, seguro do consultório e plano de saúde por adesão para a categoria."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": ["Vila Madalena", "Jardim Paulista", "Alto de Pinheiros"],
+    "referenciaLocal": "Atendemos Pinheiros e a Vila Madalena, dos apartamentos às lojas e agências da região, com seguros para autônomos, pequenos negócios e seguro fiança para alugar sem fiador.",
+    "faq": [
+      {
+        "q": "Tem seguro fiança aceito pelas imobiliárias de Pinheiros?",
+        "a": "Tem. Cotamos o seguro fiança nas seguradoras que as imobiliárias da região aceitam e cuidamos da emissão para não atrasar o contrato."
+      },
+      {
+        "q": "Cotam seguro para quem trabalha como autônomo ou MEI?",
+        "a": "Sim. Indicamos seguro de vida, plano de saúde por adesão e seguro do ponto comercial conforme a sua atividade."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": ["Anália Franco", "Vila Formosa", "Carrão"],
+    "referenciaLocal": "Atendemos o Tatuapé e a Anália Franco, das torres residenciais ao comércio da região, com seguro auto, residencial e consórcio para o planejamento de carro e imóvel da família.",
+    "faq": [
+      {
+        "q": "Vale a pena consórcio para comprar imóvel no Tatuapé?",
+        "a": "Pode valer. O consórcio não tem juros e é ideal para quem planeja a compra com antecedência; comparamos com o financiamento para você decidir."
+      },
+      {
+        "q": "Cotam seguro auto para carro que dorme na garagem do prédio?",
+        "a": "Cotamos. O CEP e o local onde o carro dorme ajudam a reduzir o preço, e usamos isso a seu favor na cotação."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": ["Tucuruvi", "Mandaqui", "Vila Guilherme"],
+    "referenciaLocal": "Atendemos Santana e a Zona Norte, do entorno do metrô às casas e ao comércio local, com seguro de vida, residencial, viagem e previdência privada para cada fase da família.",
+    "faq": [
+      {
+        "q": "Como contrato seguro de vida morando em Santana?",
+        "a": "É simples: a maioria dos planos pede só uma declaração de saúde. Comparamos as seguradoras e calculamos a cobertura ideal para a sua renda."
+      },
+      {
+        "q": "Cotam seguro viagem para a família viajar nas férias?",
+        "a": "Cotamos. Indicamos a apólice com a melhor cobertura médica e de bagagem para o destino, com emissão digital no mesmo dia."
+      }
+    ]
+  }
+]

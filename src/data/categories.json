@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Seguro auto",
+    "slug": "seguro-auto"
+  },
+  {
+    "name": "Seguros de pessoas",
+    "slug": "seguros-de-pessoas"
+  },
+  {
+    "name": "Casa e patrimônio",
+    "slug": "casa-e-patrimonio"
+  },
+  {
+    "name": "Seguros para empresas",
+    "slug": "seguros-para-empresas"
+  },
+  {
+    "name": "Dicas e finanças",
+    "slug": "dicas-e-financas"
+  }
+]
